@@ -1,1 +1,1 @@
-Projekt magisterski dotyczący wykorzystania sieci neuronowych w celu rozpoznawania szumów na obrazach. 
+Master's project on using neural networks to recognize noise in images. 
